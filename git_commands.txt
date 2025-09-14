@@ -1,0 +1,33 @@
+   1 try { . "c:\Users\PREM SOLANKI\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellI... 
+   2 python testing.py
+   3 ls
+   4 rm testing.py
+   5 ls
+   6 git init
+   7 -a
+   8 -a
+   9 ls -a
+  10 dir -a
+  11 dir -a
+  12 dir ls -a
+  13 clear
+  14 git inti
+  15 git init
+  16 ls a
+  17 git status
+  18 ls
+  19 clear
+  20 ls
+  21 git status
+  22 git add testing.py
+  23 git status
+  24 git commit -m "added testing files"
+  25 git commit -m "added testing files"
+  26 clear
+  27 git status
+  28  rm testing.py
+  29 ls
+  30 git statis
+  31 git status
+  32 git restore testing.py
+  33 ls
