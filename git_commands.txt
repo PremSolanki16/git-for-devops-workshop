@@ -1,32 +1,29 @@
-       testing.py
-   3 ls
-   4 rm testing.py
-   5 ls
-   6 git init
-   7 -aadd
-   8 -a
-   9 ls -a
-  10 dir -a
-  11 dir -a
-  12 dir ls -a
-  13 clear
-  14 git inti
-  15 git init
-  16 ls a
-  17 git status
-  18 ls
-  19 clear
-  20 ls
-  21 git status
-  22 git add testing.py
-  23 git status
-  24 git commit -m "added testing files"
-  25 git commit -m "added testing files"
-  26 clear
-  27 git status
-  28  rm testing.py
-  29 ls
-  30 git statis
-  31 git status
-  32 git restore testing.py
-  33 ls
+git status
+ clear
+git add .
+git status
+clear
+git status
+git commit -m "added testing files"
+clear
+git status
+rm testing.py
+ls
+clear
+git status
+git restore testing.py
+clear
+git status
+
+git remote add origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+git remote -v
+git status
+ 
+git remote set-url origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+clear
+git remote -v
+git push origin master
+clear
+
+
+this is some new changes
