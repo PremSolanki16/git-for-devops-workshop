@@ -1,10 +1,9 @@
-      1 try { . "c:\Users\PREM SOLANKI\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellI... 
-   2 python testing.py
+       testing.py
    3 ls
    4 rm testing.py
    5 ls
    6 git init
-   7 -a
+   7 -aadd
    8 -a
    9 ls -a
   10 dir -a
